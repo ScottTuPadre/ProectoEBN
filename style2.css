@@ -1,0 +1,104 @@
+body {      
+    background-image: url(img/Background2.jpg);
+    background-position: center, center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.title {
+    position: relative;
+    text-align: center;
+    font-family: 'Gothic'
+        url(fuente/GOTHIC.TTF);
+    font-size: 25px;
+    color: #000;
+    left: 0;
+}
+.content {
+    background: #ffffffa9;
+    border-radius: 15px;
+    position: relative;
+    margin: 5em;
+    margin-bottom: 3em;
+    margin-top: 3em;
+}
+.content h3{
+    position: relative;
+    text-align: center;
+    font-family: 'Gothic'
+        url(fuente/GOTHIC.TTF);
+    font-size: 20px;
+    color: #000;
+}
+.content p, h2, li, .to {
+    margin-left: 3em;
+    margin-right: 3em;
+    text-align: left;
+    font-family: 'Gothic'
+        url(fuente/GOTHIC.TTF);
+    font-size: 20px;
+    color: #000;
+    margin-inline-end: 2em;
+}
+.det summary {
+   position: relative;
+   font-family: 'Gothic'
+        url(fuente/GOTHIC.TTF);
+   text-align: left;
+   font-size: 20px;
+}
+.det p, img {
+    margin-left: 3em;
+    margin-right: 3em;
+    text-align: left;
+    font-family: 'Gothic'
+        url(fuente/GOTHIC.TTF);
+    font-size: 20px;
+    color: #000;
+}
+.content img {
+    margin-left: 10em;
+    margin-right: 10em;
+    width: 650px;
+    height: 500px;
+}
+.table {
+    position: relative;
+    margin: 2em;
+    font-family: 'Gothic'
+        url(fuente/GOTHIC.TTF);
+    color: #000;
+    font-size: 20px;
+}
+thead {
+    border-radius: 15px;
+    background: #9831a5;
+}
+
+th {
+    padding: 10px 10px;
+    font-weight: 100;
+    text-transform: uppercase;
+}
+td {
+    padding: 20px;
+    border-bottom: solid #000;
+}
+.back {
+    font-family: 'Gothic'
+        url(fuente/GOTHIC.TTF);
+    text-align: center;
+    color: #000;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+.back a {
+    font-family: 'Gothic'
+        url(fuente/GOTHIC.TTF);
+    text-align: center;
+    color: #000;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
